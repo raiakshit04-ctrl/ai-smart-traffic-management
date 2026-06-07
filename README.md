@@ -14,35 +14,19 @@ A real-time intelligent traffic management system that uses computer vision and 
 Unlike conventional fixed-timer signals, this system observes actual traffic conditions every few seconds and allocates green time proportionally — reducing unnecessary waiting, improving intersection throughput, and providing immediate priority corridors for emergency vehicles.
 
 
+## Screenshots
 
-\## Screenshots
+### Live Dashboard
+![Dashboard](screenshots/dashboard.png)
 
+### ML Congestion Predictions (5 Minutes Ahead)
+![Predictions](screenshots/predictions.png)
 
+### YOLOv8 Simulation Window
+![Simulation](screenshots/simulation.png)
 
-\### Live Dashboard
-
-!\[Dashboard](screenshots/dashboard.png)
-
-
-
-\### ML Congestion Predictions (5 Minutes Ahead)
-
-!\[Predictions](screenshots/predictions.png)
-
-
-
-\### YOLOv8 Simulation Window
-
-!\[Simulation](screenshots/simulation.png)
-
-
-
-\### Emergency Vehicle Preemption — North Lane at 60s, Others Preempted to 10s
-
-!\[Emergency](screenshots/emergency.png)
-
-
-
+### Emergency Vehicle Preemption — North Lane at 60s, Others Preempted to 10s
+![Emergency](screenshots/emergency.png)
 \---
 
 ## System Architecture
